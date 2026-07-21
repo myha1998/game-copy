@@ -1,0 +1,29 @@
+{
+    "mug": {
+        "name": "Mug",
+        "description": "A simple coffee mug. Warm to the touch.",
+        "width": 20,
+        "height": 25,
+        "color": "#8B4513",
+        "manaCost": 10,
+        "size": "hand-held"
+    },
+    "table": {
+        "name": "Table",
+        "description": "A small kitchen table.",
+        "width": 80,
+        "height": 50,
+        "color": "#DAA520",
+        "manaCost": 50,
+        "size": "furniture"
+    },
+    "shelf": {
+        "name": "Shelf",
+        "description": "A wall-mounted shelf for storage.",
+        "width": 60,
+        "height": 15,
+        "color": "#808080",
+        "manaCost": 40,
+        "size": "furniture"
+    }
+}
